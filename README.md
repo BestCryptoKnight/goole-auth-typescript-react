@@ -1,2 +1,0 @@
-# goole-auth-typescript-react
- 
